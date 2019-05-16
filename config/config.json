@@ -24,6 +24,4 @@
     "use_env_variable": "JAWSDB_URL",
     "dialect": "mysql"
   }
-
-  mysql://en5vw1n01uhpg73e:bvjr40cw9ofqjsxb@zj2x67aktl2o6q2n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ijrkxkn42lw0nhix
 }
