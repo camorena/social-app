@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Datelica2019",
+    "database": "socialez_app_dev",
+    "host": "127.0.0.1",
+    "port": 8889,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "socialez_app_test",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "en5vw1n01uhpg73e",
+    "password": "bvjr40cw9ofqjsxb",
+    "database": "ijrkxkn42lw0nhix",
+    "host": "zj2x67aktl2o6q2n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306",
+    "port": 3306,
+    "use_env_variable": "JAWSDB_URL",
+    "dialect": "mysql"
+  }
+
+  mysql://en5vw1n01uhpg73e:bvjr40cw9ofqjsxb@zj2x67aktl2o6q2n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ijrkxkn42lw0nhix
+}
